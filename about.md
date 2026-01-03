@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 Electronics engineer with a quest for tinkering stuff. 
-![Bejoy Profile Picture](bejoy_profile.jpg)
+![Bejoy Profile Picture]({{ site.baseurl }}/images/bejoy_profile.jpg)
 ### More Information
 
 As of 2026, I have spent 21 years working for an Aerospace company developing GNSS receivers for Navigation. My work mostly involves developing and certifying software for the navigation radios and also deals with interfacing a lot of RF hardware.
